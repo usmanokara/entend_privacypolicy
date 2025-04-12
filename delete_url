@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Delete Account – Entend</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #f8f9fa;
+      color: #333;
+      margin: 0;
+      padding: 20px;
+    }
+    .container {
+      max-width: 700px;
+      margin: 0 auto;
+      background: white;
+      padding: 30px;
+      border-radius: 8px;
+      box-shadow: 0 0 10px rgba(0,0,0,0.05);
+    }
+    h1 {
+      color: #1a1a1a;
+    }
+    p {
+      line-height: 1.6;
+    }
+    a {
+      color: #007bff;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>Account Deletion – Entend</h1>
+    <p>
+      At <strong>Entend</strong>, we respect your privacy and offer a straightforward way to delete your account and associated data.
+    </p>
+
+    <h2>How to Delete Your Account</h2>
+    <p>You can delete your account using one of the following methods:</p>
+    <ul>
+      <li>Open the <strong>Entend</strong> app.</li>
+      <li>Go to <strong>Settings &gt; Account</strong>.</li>
+      <li>Tap <strong>Delete My Account</strong> and confirm.</li>
+    </ul>
+
+    <p>
+      Alternatively, email us at <a href="mailto:info@entend.io">info@entend.io</a> using your registered email with the subject line <em>"Account Deletion Request"</em>.
+    </p>
+
+    <h2>What Will Be Deleted?</h2>
+    <ul>
+      <li>Your profile and personal information</li>
+      <li>All app usage data, settings, and messages (if applicable)</li>
+    </ul>
+
+    <p>
+      Data may be retained for up to 10 days for legal or security reasons before final deletion.
+    </p>
+
+    <p>
+      If you need any help or have questions, feel free to reach out to us at <a href="mailto:info@entend.io">info@entend.io</a>.
+    </p>
+  </div>
+</body>
+</html>
